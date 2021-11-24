@@ -19,7 +19,7 @@ Out of the 50 datasets of product categories available to choose from, I chose t
 #### 125
 * What percentage of Vine reviews were 5 stars? 
 #### 46.99 %
-
+![Img](https://github.com/Edgarhv/Amazon_Vine_Analysis/blob/a51b8f1f80a08874bf7ac3843e3e9c39a23f11e0/Images/Vpaid.png)
 -------------------------
 
 ## Upaid Vine Reviews.
