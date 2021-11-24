@@ -8,7 +8,10 @@ The purpose of this project was to make an analysis of Amazon reviews. Furthermo
 Out of the 50 datasets of product categories available to choose from, I chose to analyze reviews in the Camera category - high-value, technical products requiring experience and knowledge to effectively review. The initial ETL portion of the project was conducted, as proscribed, using AWS, PostgreSQL, and PySpark in Google Colab. The data analysis segment was conducted using PySpark and Google Colab.
 
 # Results
+-------------------------
 
-* How many Vine reviews and non-Vine reviews were there?
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+## Vine Reviews
+
+* How many Vine reviews reviews were there?
+* How many Vine reviews were 5 stars? 
+* What percentage of Vine reviews were 5 stars? 
