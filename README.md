@@ -31,3 +31,7 @@ Out of the 50 datasets of product categories available to choose from, I chose t
 * What percentage of non-Vine reviews were 5 stars?
 #### 46.99%
 ![Img](https://github.com/Edgarhv/Amazon_Vine_Analysis/blob/2eaea7890c2e794ffbc4d377d0c5cb5559e636ee/Images/Unpai.png)
+
+
+# Summary
+-------------------------
