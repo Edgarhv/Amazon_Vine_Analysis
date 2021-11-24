@@ -11,7 +11,11 @@ Out of the 50 datasets of product categories available to choose from, I chose t
 -------------------------
 
 ## Vine Reviews
+![Img](https://github.com/Edgarhv/Amazon_Vine_Analysis/blob/e68c28dac9c26c169fc9e6e5ec6689437cc1d949/Images/Paid_Vines.png)
 
 * How many Vine reviews reviews were there?
+#### 266
 * How many Vine reviews were 5 stars? 
+#### 125
 * What percentage of Vine reviews were 5 stars? 
+### 46.99 %
