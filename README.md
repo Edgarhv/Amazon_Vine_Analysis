@@ -18,9 +18,15 @@ Out of the 50 datasets of product categories available to choose from, I chose t
 * How many Vine reviews were 5 stars? 
 #### 125
 * What percentage of Vine reviews were 5 stars? 
-### 46.99 %
+#### 46.99 %
 
 -------------------------
 
 ## Upaid Vine Reviews.
-![Img](
+![Img](https://github.com/Edgarhv/Amazon_Vine_Analysis/blob/3e09310a5fc9da4f7798a84ea580799d9da2844c/Images/Unpaid_vines.png)
+* How many non-Vine reviews were there?
+#### 38829
+* How many non-Vine reviews were 5 stars?
+#### 18246
+* What percentage of non-Vine reviews were 5 stars?
+#### 46.99%
