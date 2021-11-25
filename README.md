@@ -35,3 +35,8 @@ Out of the 50 datasets of product categories available to choose from, I chose t
 
 # Summary
 -------------------------
+it is really complicated to analyze the behavior of humans, but these analyses suggest that there is no bias toward five-star reviews from paid Amazon Vine reviewers. On the other hand, the information in the review could be not true, because it is weird that the percentage of 5-star reviews is the same in vines and in non-vines. 
+
+## Additional analysis
+
+I would like to do the same analysis, but it will be better categories the product into clusters. Finally, it will be better for the analysis of the data to identify the person who purchases the product, and the person who has not bought the product.
